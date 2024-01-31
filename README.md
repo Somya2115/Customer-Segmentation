@@ -1,6 +1,6 @@
 # Customer-Segmentation
 
-![cs](https://github.com/Somya2115/Customer-Segmentation/assets/131175087/d08d660e-1b76-4459-b273-bb71fdc598e3)
+            ![cs](https://github.com/Somya2115/Customer-Segmentation/assets/131175087/d08d660e-1b76-4459-b273-bb71fdc598e3)
 
 
 The Approach:  
@@ -11,6 +11,7 @@ The Approach:
 
 Language Used: Python, IDE: Jupyter Notebook
 
+![download](https://github.com/Somya2115/Customer-Segmentation/assets/131175087/de4f5871-1b5f-474f-b03d-b4e299e0712f)
 
 Analysis:  
 1)Target group would be cluster 1 which has high spending score and high income.
