@@ -1,4 +1,8 @@
 # Customer-Segmentation
+
+![cs](https://github.com/Somya2115/Customer-Segmentation/assets/131175087/d08d660e-1b76-4459-b273-bb71fdc598e3)
+
+
 The Approach:  
 
 1)Perform some quick EDA
